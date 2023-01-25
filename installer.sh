@@ -5,7 +5,7 @@ echo -e "╚██╗░██╔╝██╔══██╗██╔══█�
 echo -e "░╚████╔╝░███████║███████║██║░░░░░██║"
 echo -e "░░╚██╔╝░░██╔══██║██╔══██║██║░░░░░██║"
 echo -e "░░░██║░░░██║░░██║██║░░██║███████╗██║"
-echo -e "░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝ v0.16\033[0m"
+echo -e "░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚═╝ v0.17\033[0m"
 echo -e '==============='
 echo -e 'This script will install Arch Linux on your computer.'
 echo -e 'It will erase all data on the disk.'
@@ -521,7 +521,7 @@ echo -e '\n==============='
 echo -e 'Installation finished.'
 echo -e '==============='
 echo -e 'Thank you for using this script.'
-echo -e 'Check the script on https://github.com/mflr01901/ArchLinuxInstaller'
+echo -e 'Check the script on https://github.com/mflr01901/YAALI/'
 echo -e '==============='
 echo -e 'Press any key to reboot.'
 read -n 1
