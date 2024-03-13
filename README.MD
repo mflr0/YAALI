@@ -46,4 +46,4 @@ This script is licensed under the MIT License. See the LICENSE file for more inf
 This script is based on the Arch Linux installation guide from official Arch Linux documentation. It also uses the Arch Linux installation script from the Arch Linux Wiki.
 
 ## ✏️ Author
-- [mflr01901](https://github.com/mflr01901)
+- [mflr0](https://github.com/mflr0)
